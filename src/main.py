@@ -19,7 +19,7 @@ def show_about_dialog(parent):
         version="1.0.0",
         developer_name="RohanKP1",
         license_type=Gtk.License.GPL_3_0,
-        website="https://github.com/RohanKP1",
+        website="https://github.com/RohanKP1/Appme",
         comments="A simple tool to create web applications on Linux, inspired by Linux Mint's Webapp Manager."
     )
     
