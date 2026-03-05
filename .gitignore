@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+
+# Local Test Files
+appme_gui.py
+appme_tui.py

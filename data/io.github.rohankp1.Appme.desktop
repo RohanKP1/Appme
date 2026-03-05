@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Appme
+Comment=Run websites as if they were apps
+Exec=python3 /usr/share/appme/main.py
+Icon=io.github.rohankp1.Appme
+Terminal=false
+Categories=Utility;Network;
+StartupNotify=true
